@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "container:"
+      name = "Pic">
+      <FileRef
+         location = "group:../p1 login.jpg">
+      </FileRef>
+   </Group>
    <FileRef
       location = "self:Location App.xcodeproj">
    </FileRef>
